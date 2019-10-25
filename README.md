@@ -1,3 +1,5 @@
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/acrlewis/caption-this.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/acrlewis/caption-this/alerts/)
+
 # Caption this
 
 This repository hosts a Markdown-driven slideshow. Let the bot show you around. But if you want to know more, keep reading!
